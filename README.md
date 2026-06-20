@@ -1,8 +1,8 @@
-# Wii U Hacks Guide
+# Samtendo Installation Guide (Wii U)
 
-Nintendo Wii U homebrew guide written by staff members of the [Nintendo Homebrew Discord server.](https://discord.gg/C29hYvh)
+Wii U guide for installing Samtendo Network.
 
-https://wiiu.hacks.guide/
+https://guide.samtendo.net/
 
 ## Running the site locally
 
@@ -13,8 +13,8 @@ This requires the following installed on your system:
 To test the website locally, clone the source code:
 
 ```bash
-git clone https://github.com/hacks-guide/Guide-WiiU.git --recurse-submodules
-cd Guide-WiiU
+git clone https://github.com/SamtendoNetwork/guide --recurse-submodules
+cd guide
 ```
 
 > [!NOTE]
