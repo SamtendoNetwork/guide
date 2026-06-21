@@ -13,7 +13,7 @@ Using your favourite file explorer, open up your SD Card's drive. From there, na
 
 ::: danger
 
-If you see a file named *Electrode-samtendo.wps*, **STOP** - you already have Samtendo Network installed. Proceed to **Updating Electrode**.
+If you see a file named *Electrode-samtendo.wps*, **STOP** - you already have Samtendo Network installed. Ask for update instructions in the [Samtendo Network Discord server](https://discord.gg/jDKvdtVyzK).
 
 :::
 
@@ -39,7 +39,7 @@ Now navigate to **SD:/wiiu/environments/aroma/modules**. What do you see?
 
 ::: danger
 
-If you see a file named *Electrode-samtendo.wms*, **STOP** - you already have Samtendo Network installed. Proceed to **Updating Electrode**.
+If you see a file named *Electrode-samtendo.wms*, **STOP** - you already have Samtendo Network installed. Ask for update instructions in the [Samtendo Network Discord server](https://discord.gg/jDKvdtVyzK).
 
 :::
 
