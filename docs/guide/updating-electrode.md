@@ -5,6 +5,7 @@ This page will guide you through updating Electrode.
 ::: tip
 
 The current Electrode version is 0.0.6.
+
 The current ElectrodeUpdater version is 1.0.0.
 
 :::
