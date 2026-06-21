@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "Wii U Hacks Guide"
+title: "Welcome"
 hero:
-  text: "Wii U Hacks Guide"
-  tagline: "A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware."
+  text: "Samtendo Network Installation Guide"
+  tagline: "An official guide to help you set up Samtendo Network on your console."
   image:
     src: "/assets/img/home-page-feature.jpg"
 ---
@@ -12,47 +12,23 @@ hero:
 
 **Discord Help**
 
-For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read **#faq-wiiu**, as well as our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
+For live support with this guide please visit us in **#samtendo** in the [Samtendo Network Discord](https://discord.gg/jDKvdtVyzK) and ask, in English, for assistance.
 
 :::
 
-::: info
+### Uses for Samtendo Network
 
-If you appreciate this guide, we accept [donations](donations).
+The main uses are:
 
-::: 
+- Create Samtendo Network IDs
+- Play with friends online
+- Use Samverse
 
-::: info
-
-For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide).  
-
-:::
-
-### Homebrew
-
-Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
-
-Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
-
-### Custom Firmware
-
-Custom firmware (often abbreviated as "CFW") enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, installing game modifications with ease.
-CFW can be set up on any console on the latest version.
-
-### Homebrew & CFW Uses
-
-Among other things, it allows you to do the following:
-
-- Use “ROM hacks” for games that you own.
-- Backup, edit and restore saves for many games.
-- Play games for older systems with various emulators, using RetroArch or other standalone emulators.
-- Play out-of-region games.
-- Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
-
+Not all features are implemented yet.
 
 ### End Goal
 
-This guide has the end goal of taking a completely unmodified Wii U from stock to custom firmware.
+This guide has the end goal of taking a Nintendo Network Wii U to a Samtendo Network one.
 
 ### Before Starting
 
@@ -69,7 +45,7 @@ This guide will work on all Wii U consoles in all regions on the latest firmware
 You will need the following in order to successfully follow this guide:
 - An SD Card.
 - A device such as a computer to place files onto the SD Card.
-- A Wii U with internet access.
+- A Wii U that uses Aroma (and has internet access)
 
 A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
 
@@ -77,23 +53,18 @@ A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter 
 
 ::: tip
 
-**If you have an existing legacy CFW setup**
+**My console isn't hacked yet!**
 
-- For **CBHC** users: Go to the [Uninstall CBHC](uninstall-cbhc) page to uninstall CBHC.
-- For **Haxchi** users: Uninstall the Haxchi app from Data Management in the System Settings app.
-- For **Mocha CFW (Indexiine)** users: Go to the [Uninstall Indexiine](uninstall-indexiine) page to uninstall Indexiine.
-- For **Mocha CFW (Online Exploit)** users: You do not need to do anything before following this guide.
+Please see the NH guide: https://wiiu.hacks.guide
 
 :::
 
-If everything goes according to plan, you will lose no data and end up with everything that you started with (games, saves, NNID, etc, will be preserved).
+Samtendo does not intefere with other users. You will need to create a new user just for Samtendo Network (do not create it yet, the guide will instruct you when to)
 
 Keep your device plugged in throughout the entire process to avoid data loss or damage from an unexpected power-off.
-
-After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Aroma section.
 
 It is advised that you read the entire guide from start to finish one or more times before actually running through the guide with your system.
 
 ---
 
-### [Continue to Aroma](aroma/getting-started)
+### [Get Started](guide/getting-started)

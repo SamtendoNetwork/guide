@@ -1,5 +1,5 @@
 /*
-  Copyright (C) 2024 Nintendo Homebrew
+  Copyright (C) 2026 Samtendo Network
   SPDX-License-Identifier: MIT
 */
 
@@ -11,17 +11,14 @@ import container from 'markdown-it-container'
 import * as i18n from './i18n'
 
 export default defineConfig({
-  title: "Wii U Hacks Guide",
-  description: "A guide to hacking the Nintendo Wii U.",
+  title: "Samtendo Network Installation Guide",
+  description: "An official guide to installing Samtendo Network on the Nintendo Wii U.",
   head: [['link', { rel: 'icon', href: '/assets/img/favicon.ico' }]],
   locales: {
-    root: i18n.en_US,
-    hu_HU: i18n.hu_HU,
-    de_DE: i18n.de_DE,
-    fr_FR: i18n.fr_FR
+    root: i18n.en_US
   },
   sitemap: {
-    hostname: 'https://wiiu.hacks.guide'
+    hostname: 'https://guide.samtendo.net'
   },
   themeConfig: {
     docFooter: {
@@ -29,8 +26,8 @@ export default defineConfig({
       next: false
     },
     socialLinks: [
-      { icon: 'discord', link: 'https://discord.gg/C29hYvh' },
-      { icon: 'github', link: 'https://github.com/hacks-guide/Guide-WiiU' }
+      { icon: 'discord', link: 'https://discord.gg/jDKvdtVyzK' },
+      { icon: 'github', link: 'https://github.com/SamtendoNetwork/guide' }
     ]
   },
   vite: {

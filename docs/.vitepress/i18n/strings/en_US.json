@@ -1,6 +1,6 @@
 {
-    "title": "Wii U Hacks Guide",
-    "description": "A guide to hacking the Nintendo Wii U.",
+    "title": "Samtendo Installation Guide",
+    "description": "A guide to installing Samtendo Network on the Nintendo Wii U.",
     "langMenuLabel": "Switch language",
     "darkModeSwitchLabel": "Appearance",
     "darkModeSwitchTitle": "Switch to dark theme",
@@ -15,11 +15,11 @@
     "pages": {
         "about": "About This Guide",
         "aroma/autobooting": "Autobooting Aroma",
-        "aroma/getting-started": "Aroma",
+        "guide/getting-started": "Getting Started",
         "aroma/browser-exploit": "Browser Exploit",
         "aroma/installing-payloadloader": "Installing PayloadLoader",
         "aroma/nand-backup": "Making a NAND Backup",
-        "aroma/sd-preparation": "SD Preparation",
+        "guide/sd-preparation": "SD Preparation",
         "block-updates": "Blocking Updates",
         "common-issues-fixes": "Common Issues & Fixes",
         "donations": "Donations",
