@@ -18,7 +18,7 @@ export default defineConfig({
     root: i18n.en_US
   },
   sitemap: {
-    hostname: 'guide.samtendo.net'
+    hostname: 'https://guide.samtendo.net'
   },
   themeConfig: {
     docFooter: {
