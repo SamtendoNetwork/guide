@@ -6,7 +6,7 @@ prev: true
 
 With your SD Card back in your Wii U, power it back on. Upon reaching the Wii U Menu you should see the following popups in the top left:
 
-![Electrode popups](assets/img/guide/popups.png)
+![Electrode popups](/assets/img/guide/popups.png)
 
 ::: danger
 
