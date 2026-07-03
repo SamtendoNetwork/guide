@@ -10,5 +10,5 @@
 
 We want to thank all of our donors for their donations:
 
-- blazer1009 (£5.00 total)
-- gugugagagugugagagugugaga (£1.00)
+1. blazer1009 (£5.00)
+1. gugugagagugugagagugugaga (£1.00)
