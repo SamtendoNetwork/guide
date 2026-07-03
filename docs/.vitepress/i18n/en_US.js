@@ -23,7 +23,8 @@ const sidebar_common = {
 	text: localeData.other,
 	items: [
 		{ text: localeData.pages["about"], link: `/about` },
-		{ text: localeData.pages["updating-electrode"], link: `/guide/updating-electrode` }
+		{ text: localeData.pages["updating-electrode"], link: `/guide/updating-electrode` },
+		{ text: localeData.pages["donations"], link: `/donations` }
 	]
 }
 
@@ -62,7 +63,8 @@ const themeConfig = {
 	footer: {
 		copyright: 'Copyright © 2026 Samtendo Network',
 		items: [
-			{ text: localeData.pages["about"], link: `/about` }
+			{ text: localeData.pages["about"], link: `/about` },
+			{ text: localeData.pages["donations"], link: `/donations` }
 		]
 	}
 };

@@ -16,6 +16,12 @@ For live support with this guide please visit us in **#samtendo** in the [Samten
 
 :::
 
+::: info
+
+If you appreciate this guide, we accept [donations](/donations), as hosting the guide alongside the entire network is sadly not free.
+
+:::
+
 ### Uses for Samtendo Network
 
 The main uses are:

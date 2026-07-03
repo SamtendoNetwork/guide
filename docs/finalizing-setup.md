@@ -23,3 +23,11 @@ Once at the user selection screen, choose *Add New User* in the top right. From 
 We highly recommend joining the [Samtendo Network Discord server](https://discord.gg/jDKvdtVyzK), as you can stay up to date on updates, chat with other Wii U fans and get quick support in the event you need it!
 
 :::
+
+::: tip
+
+If this guide was helpful to you, please [consider donating](/donations) to Samtendo Network. Even £1 will help us continue to host our servers and develop new features for you.
+
+All donors receive early access to all new features, alongside many other special perks. You will also be mentioned in the donation page and the Discord server.
+
+:::
