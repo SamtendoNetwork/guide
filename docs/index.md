@@ -51,7 +51,7 @@ This guide will work on all Wii U consoles in all regions on the latest firmware
 You will need the following in order to successfully follow this guide:
 - An SD Card.
 - A device such as a computer to place files onto the SD Card.
-- A Wii U that uses Aroma (and has internet access)
+- A Wii U that uses the latest version of Aroma (and has internet access)
 
 A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
 

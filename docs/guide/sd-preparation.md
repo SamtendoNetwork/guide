@@ -25,7 +25,7 @@ If you see a file named *Inkay-pretendo.wps*, you have Pretendo Network installe
 
 ::: danger
 
-If you see a file named *RichPrescence.wps*, delete it as it may interfere with UDP connections. The Samtendo version is provided in Section II if you'd like to redownload it.
+If you see a file named *RichPrescence.wps*, delete it as it is known to break Samtendo, and the Wii U as a whole.
 
 :::
 
@@ -63,9 +63,6 @@ These files are **required**:
 
 - [Electrode-samtendo.wps](https://github.com/SamtendoNetwork/Electrode/releases/download/v0.0.6/Electrode-samtendo.wps) (Electrode plugin, required to connect to Samtendo Network)
 - [Electrode-samtendo.wms](https://github.com/SamtendoNetwork/Electrode/releases/download/v0.0.6/Electrode-samtendo.wms) (Electrode module, required for the plugin to function)
-
-You may choose to download these files, but they are not required:
-- [RichPresence](https://github.com/sam51210/RichPresenceWUPS/releases/latest) (Place *RichPresence.wps* in **SD:/wiiu/environments/aroma/plugins**. *discord-script.py* should just be ran on your computer in the background.)
 
 Your folders should now look something like this:
 
