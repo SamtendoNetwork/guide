@@ -40,7 +40,7 @@ This guide has the end goal of taking a Nintendo Network Wii U to a Samtendo Net
 
 ::: danger
 
-Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
+Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. Bricks are rare but still a possibility... so make sure you follow **ALL** directions **EXACTLY!**
 
 :::
 
@@ -65,7 +65,7 @@ Please see the NH guide: https://wiiu.hacks.guide
 
 :::
 
-Samtendo does not intefere with other users. You will need to create a new user just for Samtendo Network (do not create it yet, the guide will instruct you when to)
+Samtendo does not intefere with other users. You will need to create a new user just for Samtendo Network (**do not create it yet**, the guide will instruct you when to.)
 
 Keep your device plugged in throughout the entire process to avoid data loss or damage from an unexpected power-off.
 
