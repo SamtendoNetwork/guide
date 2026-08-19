@@ -3,7 +3,7 @@ layout: home
 title: "Welcome"
 hero:
   text: "Samtendo Network Installation Guide"
-  tagline: "An official guide to help you set up Samtendo Network on your console."
+  tagline: "An official guide to help you set up Samtendo Network on your 3DS or Wii U."
   image:
     src: "/assets/img/home-page-feature.jpg"
 ---
@@ -13,6 +13,12 @@ hero:
 **Discord Help**
 
 For live support with this guide please visit us in **#samtendo** in the [Samtendo Network Discord](https://discord.gg/jDKvdtVyzK) and ask, in English, for assistance.
+
+:::
+
+::: info
+
+If you're looking for games and services we currently support, visit [games.samtendo.net](https://games.samtendo.net).
 
 :::
 
@@ -73,4 +79,4 @@ It is advised that you read the entire guide from start to finish one or more ti
 
 ---
 
-### [Get Started](guide/getting-started)
+### [Get Started](guide/console)

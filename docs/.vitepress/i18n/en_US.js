@@ -50,9 +50,17 @@ const themeConfig = {
 			{
 				text: localeData.guide,
 				items: [
-					{ text: localeData.pages["guide/getting-started"], link: `/guide/getting-started` },
-					{ text: localeData.pages["guide/sd-preparation"], link: `/guide/sd-preparation` },
-					{ text: localeData.pages["finalizing-setup"], link: `/finalizing-setup` }
+					{ text: localeData.pages["guide/getting-started"], link: `/guide/wiiu/getting-started` },
+					{ text: localeData.pages["guide/sd-preparation"], link: `/guide/wiiu/sd-preparation` },
+					{ text: localeData.pages["finalizing-setup"], link: `/guide/wiiu/finalizing-setup` }
+				]
+			},
+			{
+				text: localeData.dguide,
+				items: [
+					{ text: localeData.pages["guide/getting-started"], link: `/guide/3ds/getting-started` },
+					{ text: localeData.pages["guide/sd-preparation"], link: `/guide/3ds/sd-preparation` },
+					{ text: localeData.pages["finalizing-setup"], link: `/guide/3ds/finalizing-setup` }
 				]
 			},
 			sidebar_troubleshooting,
