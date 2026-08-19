@@ -5,7 +5,7 @@ hero:
   text: "Samtendo Network Installation Guide"
   tagline: "An official guide to help you set up Samtendo Network on your 3DS or Wii U."
   image:
-    src: "/assets/img/home-page-feature.jpg"
+    src: "/assets/img/Guidebg.png"
 ---
 
 ::: tip
