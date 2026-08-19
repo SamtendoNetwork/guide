@@ -8,8 +8,4 @@
 
 :::
 
-We want to thank all of our donors for their donations:
-
-1. blazer1009 (£15.00)
-1. gugugagagugugagagugugaga (£6.00)
-1. ResarfGaming (£0.70)
+Thank you to all donors for their generous donations.
