@@ -69,7 +69,7 @@ A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter 
 
 **My console isn't hacked yet!**
 
-Please see the NH guide: https://wiiu.hacks.guide
+Please see the Nintendo Homebrew guide for [Wii U](https://wiiu.hacks.guide) or [3DS](https://3ds.hacks.guide).
 
 :::
 
