@@ -10,4 +10,3 @@ Please follow the instructions for your console.
 | ----- | ------------ |
 | ![Wii U](/assets/img/guide/WhiteU.png) | [Continue to Wii U Setup](wiiu/getting-started) |
 | ![3DS](/assets/img/guide/3ds.png) ![2DS](/assets/img/guide/2ds.png) | [Continue to 3DS Setup](3ds/getting-started) |
-| ![Wii](/assets/img/guide/Wii-Console.png) | *Wii is not supported yet by this guide* |
