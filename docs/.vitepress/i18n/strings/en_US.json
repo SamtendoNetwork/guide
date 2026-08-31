@@ -1,6 +1,6 @@
 {
     "title": "Samtendo Installation Guide",
-    "description": "A guide to installing Samtendo Network on the Nintendo Wii U.",
+    "description": "A guide to installing Samtendo Network on your 3DS or Wii U.",
     "langMenuLabel": "Switch language",
     "darkModeSwitchLabel": "Appearance",
     "darkModeSwitchTitle": "Switch to dark theme",
@@ -8,7 +8,8 @@
     "sidebarMenuLabel": "Menu",
     "returnToTopLabel": "Return to top",
 
-    "guide": "Guide",
+    "guide": "Wii U",
+    "dguide": "3DS",
     "extras": "Extras",
     "other": "Other",
     "troubleshooting": "Troubleshooting",

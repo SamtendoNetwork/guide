@@ -2,19 +2,9 @@
 next: true
 ---
 
-# Getting Started
+# Getting started with Samtendo Network on Wii U
 
 Before starting this guide, we need to check if custom firmware (CFW) is already installed on your console, alongside other potentially conflicting plugins.
-
-### Pre-check
-
-Please follow the instructions for your console.
-
-| Image | Instructions |
-| ----- | ------------ |
-| ![Wii U](/assets/img/guide/WhiteU.png) | Carry on to Section I |
-| ![3DS](/assets/img/guide/3ds.png) ![2DS](/assets/img/guide/2ds.png) | *3DS/2DS is not supported yet by this guide* |
-| ![Wii](/assets/img/guide/Wii-Console.png) | *Wii is not supported yet by this guide* |
 
 ### Section I - CFW Check
 

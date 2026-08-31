@@ -3,9 +3,9 @@ layout: home
 title: "Welcome"
 hero:
   text: "Samtendo Network Installation Guide"
-  tagline: "An official guide to help you set up Samtendo Network on your console."
+  tagline: "An official guide to help you set up Samtendo Network on your 3DS or Wii U."
   image:
-    src: "/assets/img/home-page-feature.jpg"
+    src: "/assets/img/Guidebg.png"
 ---
 
 ::: tip
@@ -13,6 +13,12 @@ hero:
 **Discord Help**
 
 For live support with this guide please visit us in **#samtendo** in the [Samtendo Network Discord](https://discord.gg/jDKvdtVyzK) and ask, in English, for assistance.
+
+:::
+
+::: info
+
+If you're looking for games and services we currently support, visit [games.samtendo.net](https://games.samtendo.net).
 
 :::
 
@@ -40,18 +46,20 @@ This guide has the end goal of taking a Nintendo Network Wii U to a Samtendo Net
 
 ::: danger
 
-Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. Bricks are rare but still a possibility... so make sure you follow **ALL** directions **EXACTLY!**
+By modding your console, you subject it to the remote (but non-zero) possibility of the console being bricked (rendered non-functional). Incorrect file placement will NOT brick your console, but purposely skipping instructions might.
+
+**In short:** Modding your console is safe, but it's your responsibility if something goes wrong.
 
 :::
 
 ::: info
 
-This guide will work on all Wii U consoles in all regions on the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) or below.
+This guide will work on all 3DS and Wii U consoles in all regions on the latest firmware.
 
 You will need the following in order to successfully follow this guide:
 - An SD Card.
 - A device such as a computer to place files onto the SD Card.
-- A Wii U that uses the latest version of Aroma (and has internet access)
+- A Wii U that uses the latest version of Aroma (and has internet access) ***OR*** a 3DS that uses the latest version of Luma3DS
 
 A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
 
@@ -61,7 +69,7 @@ A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter 
 
 **My console isn't hacked yet!**
 
-Please see the NH guide: https://wiiu.hacks.guide
+Please see the Nintendo Homebrew guide for [Wii U](https://wiiu.hacks.guide) or [3DS](https://3ds.hacks.guide).
 
 :::
 
@@ -73,4 +81,4 @@ It is advised that you read the entire guide from start to finish one or more ti
 
 ---
 
-### [Get Started](guide/getting-started)
+### [Get Started](guide/console)
