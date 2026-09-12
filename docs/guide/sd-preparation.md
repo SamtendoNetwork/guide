@@ -61,8 +61,8 @@ You should have now deleted any conflicting plugins that modify your selected ne
 
 These files are **required**:
 
-- [Electrode-samtendo.wps](https://github.com/SamtendoNetwork/Electrode/releases/download/v0.0.6/Electrode-samtendo.wps) (Electrode plugin, required to connect to Samtendo Network)
-- [Electrode-samtendo.wms](https://github.com/SamtendoNetwork/Electrode/releases/download/v0.0.6/Electrode-samtendo.wms) (Electrode module, required for the plugin to function)
+- [Electrode-samtendo.wps](https://github.com/SamtendoNetwork/Electrode/releases/download/v0.0.7/Electrode-samtendo.wps) (Electrode plugin, required to connect to Samtendo Network)
+- [Electrode-samtendo.wms](https://github.com/SamtendoNetwork/Electrode/releases/download/v0.0.7/Electrode-samtendo.wms) (Electrode module, required for the plugin to function)
 
 Your folders should now look something like this:
 
