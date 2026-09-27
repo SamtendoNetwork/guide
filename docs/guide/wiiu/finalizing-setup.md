@@ -4,13 +4,13 @@ prev: true
 
 # Finalizing Setup
 
-With your SD Card back in your Wii U, power it back on. Upon reaching the Wii U Menu you should see the following popups in the top left:
+With your SD Card back in your Wii U, power it back on. Upon reaching the Wii U Menu you should see the following popups in the top left (the version should be 0.0.8):
 
 ![Electrode popups](/assets/img/guide/popups.png)
 
 ::: danger
 
-If you do not see these exact popups, you have likely misplaced a file. Please go back and review the instructions carefully. Otherwise, ask for help in the [Samtendo Network Discord server](https://discord.gg/jDKvdtVyzK).
+If you do not see these exact popups, you have likely misplaced a file. Please go back and review the instructions carefully. Otherwise, ask for help in the [Samtendo Network Discord server](https://discord.gg/samtendo).
 
 :::
 
@@ -28,6 +28,6 @@ We highly recommend joining the [Samtendo Network Discord server](https://discor
 
 If this guide was helpful to you, please [consider donating](/donations) to Samtendo Network. Even £1 will help us continue to host our servers and develop new features for you.
 
-All donors receive early access to all new features, alongside many other special perks. You will also be mentioned in the donation page and the Discord server.
+All donors receive early access to all new features, alongside many other special perks. You will also be mentioned in the Discord server.
 
 :::
