@@ -6,4 +6,4 @@ As Nintendo Network has closed down, it is impossible for you or your console to
 
 ## What consoles are supported?
 
-Currently, only the Wii U is supported. That includes both the 8GB (white) and 32GB (black) models. Any region should work, but please ensure your console is updated to the latest version (5.5.6 in North America, 5.5.5 elsewhere). 
+Both the Wii U and 3DS are fully supported. This includes any 3DS model and any Wii U model. However, iQue 3DS', Korean 3DS', Cemu and any devkits are not officially supported. While we do have [our own Cemu fork, Samu](https://github.com/SamtendoNetwork/Samu), which adds support for Samtendo Network, our actual infrastructure isn't guaranteed to work with it. However, most features should function just fine.
